@@ -23,7 +23,7 @@ const burger = (props) => {
             {transformedIngredients}
             <BurgerIngredient type="bread-bottom" />
         </div>
-    )
+    );
 }
 
 export default burger;
