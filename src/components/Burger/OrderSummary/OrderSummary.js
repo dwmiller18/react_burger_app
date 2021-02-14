@@ -1,12 +1,8 @@
 import React, {Component} from 'react';
-import Aux from '../../../hoc/Aux';
+import Aux from '../../../hoc/Aux/Aux';
 import Button from '../../UI/Button/Button';
 
 class OrderSummary extends Component {
-    UNSAFE_componentWillUpdate(nextProps, nextState, nextContext) {
-        console.log('[OrderSummary] WillUpdate');
-    }
-
     render() {
         const ingredientSummary = Object.keys(this.props.ingredients)
             .map(igKey => {
