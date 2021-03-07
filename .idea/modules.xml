@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/burger-app-3.iml" filepath="$PROJECT_DIR$/.idea/burger-app-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../http--01-starting-setup/.idea/http--01-starting-setup.iml" filepath="$PROJECT_DIR$/../http--01-starting-setup/.idea/http--01-starting-setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redux--01-start/.idea/redux--01-start.iml" filepath="$PROJECT_DIR$/../redux--01-start/.idea/redux--01-start.iml" />
     </modules>
   </component>
 </project>
